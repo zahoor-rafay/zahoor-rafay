@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zahoor-rafay
-- 👀 I’m interested in ReactJS and Full Stack
-- 🌱 I’m currently learning Docker & K8s
-- 💞️ I’m looking to collaborate on Open Source
+- 👀 Working as a Senior UI Engineer
 - 📫 Email to reach me 
 
 <!---
